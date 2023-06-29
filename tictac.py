@@ -47,4 +47,4 @@ while not game_over():
 # Game over
 display_board()
 winner = 'O' if player == 'X' else 'X'
-print(f'Congratulations! Player {winner} wins!')
+print(f'Man just fuck off Player {winner} wins!')
